@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/poojablog",
+    "prod_uri" : "mysql://root:@localhost/poojablog",
+    "fb_url" : "https://facebook.com/poojablog",
+    "tw_url" : "https://twitter.com/poojablog",
+    "gh_url" : "https://github.com/poojablog",
+    "blog_name" : "Content Blog",
+    "gmail-user": "qqir427@gmail.com",
+    "gmail-password": "floc bfjn ncxn utrj",
+    "about_text": "Hi my name is pooja and I am a web developer.",
+    "no_of_posts" : 2,
+    "admin_user" : "pooja",
+    "admin_password" : "pooja@32",
+    "upload_location" : "C:\\Users\\pooji\\PycharmProjects\\pythonflask\\flaskProject"
+  }
+
+
+
+
+
+
+}
